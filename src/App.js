@@ -84,7 +84,7 @@ function App() {
                       width={48}
                     />
                     <div style={{ marginLeft: '10px', fontSize: '20px' }}>
-                      {isOn ? 'Sensor is ON' : 'Sensor is OFF'}
+                      {isOn ? 'Surveillance is ON' : 'Surveillance is OFF'}
                     </div>
                   </div>
                   <div style={{ display: 'flex', alignItems: 'center', marginBottom: '10px' }}>
